@@ -1,0 +1,2 @@
+# b7c97996029475d7a3f3e75d33c2f225
+App id F94E0-3858A-AE800-03B77-F99EC, version name - тест
